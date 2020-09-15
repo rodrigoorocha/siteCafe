@@ -1,0 +1,66 @@
+body {
+  background-color: antiquewhite;
+}
+
+.menuitem {
+  display: inline-block;
+}
+
+#logo_kombi_coffee {
+  margin-bottom: 15px;
+}
+
+#banner {
+  width: 100%;
+}
+
+.titulo {
+  color: goldenrod;
+  margin: 10px;
+}
+
+li {
+  display: inline;
+}
+
+#h1fake {
+  display: none;
+}
+
+#container {
+  margin: 0 auto;
+  width: 960px;
+}
+ul {
+  background-color: goldenrod;
+}
+
+a:link,
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: brown;
+  text-decoration: underline;
+}
+
+#contato {
+  max-width: 10px;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+b {
+  color: goldenrod;
+}
+img {
+  margin-right: 100px;
+}
